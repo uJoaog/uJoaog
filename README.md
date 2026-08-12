@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO&color=0f0c29&style=for-the-badge&label=SCANS+DE+PERFIL)
+![Profile Views](https://komarev.com/ghpvc/?username=uJoaog&color=0f0c29&style=for-the-badge&label=SCANS+DE+PERFIL)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0f0c29)
 ![Location](https://img.shields.io/badge/LOCALIZAÇÃO-Brasil-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f0c29)
 
@@ -170,16 +170,16 @@ Fique de olho — novidades em breve.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F0FF&icon_color=8A2BE2&text_color=c9d1d9&ring_color=00F0FF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F0FF&text_color=c9d1d9" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=uJoaog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F0FF&icon_color=8A2BE2&text_color=c9d1d9&ring_color=00F0FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uJoaog&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F0FF&text_color=c9d1d9" width="38%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true&background=0f0c29&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uJoaog&theme=tokyonight&hide_border=true&background=0f0c29&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=00F0FF&line=8A2BE2&point=ffffff&area=true&area_color=00F0FF" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uJoaog&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=00F0FF&line=8A2BE2&point=ffffff&area=true&area_color=00F0FF" width="97%"/>
 
 </div>
 
@@ -189,7 +189,7 @@ Fique de olho — novidades em breve.
 ## `<` CONQUISTAS `/>`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=uJoaog&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 </div>
 
 <br/>
@@ -200,14 +200,14 @@ Fique de olho — novidades em breve.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg">
-  <img alt="snake contribution animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uJoaog/uJoaog/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uJoaog/uJoaog/output/github-contribution-grid-snake.svg">
+  <img alt="snake contribution animation" src="https://raw.githubusercontent.com/uJoaog/uJoaog/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
-> ⚙️ Para ativar essa animação, use o arquivo `snake.yml` (fornecido junto a este README) na pasta `.github/workflows/` do seu repositório `SEU-USUARIO/SEU-USUARIO`.
+> ⚙️ Para ativar essa animação, use o arquivo `snake.yml` (fornecido junto a este README) na pasta `.github/workflows/` do seu repositório `uJoaog/uJoaog`.
 
 <br/>
 
@@ -216,8 +216,8 @@ Fique de olho — novidades em breve.
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/uJoaog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uJoaog)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMERO)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
